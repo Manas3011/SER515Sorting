@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="test.java.AlgoTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-10-22T06:38:03" hostname="manas-ubuntu" time="0.004">
+<testsuite name="test.java.AlgoTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-10-23T04:45:02" hostname="manas-ubuntu" time="0.006">
   <properties/>
-  <testcase name="testNullInsertionSort" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testNullInsertionSort" classname="test.java.AlgoTest" time="0.002"/>
   <testcase name="testNormalInsertionSort" classname="test.java.AlgoTest" time="0.0"/>
   <testcase name="testNullSelectionSort" classname="test.java.AlgoTest" time="0.0"/>
-  <testcase name="testHeapSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testHeapSort" classname="test.java.AlgoTest" time="0.001"/>
   <testcase name="testNormalSelectionSort" classname="test.java.AlgoTest" time="0.0"/>
   <testcase name="testNullHeapSort" classname="test.java.AlgoTest" time="0.0"/>
   <testcase name="testNormalBubbleSort" classname="test.java.AlgoTest" time="0.0"/>
-  <testcase name="testNullQuickSort" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testNullQuickSort" classname="test.java.AlgoTest" time="0.0"/>
   <testcase name="testkNullBubbleSort" classname="test.java.AlgoTest" time="0.0"/>
   <testcase name="testNullMergeSort" classname="test.java.AlgoTest" time="0.0"/>
   <testcase name="testNormalQuickSort" classname="test.java.AlgoTest" time="0.0"/>
